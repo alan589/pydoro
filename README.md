@@ -11,9 +11,8 @@ Pomodoro feito em Python
 Clone this repository:
 
 ```
-git clone https://github.com/alan589/py-blackjack.git
+git clone https://github.com/alan589/pydoro.git
 ```
-
 Start working:
 
 ```
